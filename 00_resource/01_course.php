@@ -2,7 +2,7 @@
 28天PHP零基础入门到精通教程（P1基础6天）
 https://www.bilibili.com/video/BV18x411H7qD
 
-	P36.over
+	P40.over
 	https://www.bilibili.com/video/BV18x411H7qD?p=33
 
 
